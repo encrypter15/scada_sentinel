@@ -59,4 +59,3 @@ Use this tool responsibly and only on systems you have permission to test. The a
 
 ### Notes
 - The code assumes `scapy.nmap.NmapScan()` is available, which requires the `python-nmap` library (`pip install python-nmap`). Adjust if using raw Scapy without Nmap integration.
-- This is a fully functional implementation with error handling, logging, and reporting as specified.
